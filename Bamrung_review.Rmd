@@ -26,7 +26,7 @@ knitr::opts_chunk$set(
 * Only the warning receive is _Warning: NAs introduced by coercion_
 * All the code covers all assignment part I and part II of the assignment
 * _I noticed that output files from maize and teosinte have not shown up in the directories, potentially from outdir path or NAs error_
-* Overall is very well done. I would go back and check the part that create a 20 files for maize and teosinte
+* Overall is very well done. I would go back and check the part that create a 20 files for maize and teosinte. I would also add a README.md for describing directories. Overall, it is nice!
 
 ### Review on part I
 This include comments from part I assignment
